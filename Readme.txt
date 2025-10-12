@@ -1,1 +1,1 @@
-sample python project
+My first finance tracker project
